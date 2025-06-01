@@ -1,8 +1,8 @@
-﻿# TPS-project \n\n
+﻿# TPS-project 
 
-##Code Untuk Mencari Banyaknya User dalam Suatu Jaringan
+## Code Untuk Mencari Banyaknya User dalam Suatu Jaringan 
 *realtime_network_monitor.ps1*
-###Cara Menggunakan 
+### Cara Menggunakan 
 masuk path program lalu jalankan di powershell
 
 ##Code untuk mengsimulasikan hasil data yang di ambil
